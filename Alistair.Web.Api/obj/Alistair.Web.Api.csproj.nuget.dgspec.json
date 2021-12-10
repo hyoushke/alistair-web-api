@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Workspace\\geco\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj": {}
+    "E:\\Workspace\\geco\\New folder\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj": {}
   },
   "projects": {
-    "E:\\Workspace\\geco\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj": {
+    "E:\\Workspace\\geco\\New folder\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Workspace\\geco\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj",
+        "projectUniqueName": "E:\\Workspace\\geco\\New folder\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj",
         "projectName": "Alistair.Web.Api",
-        "projectPath": "E:\\Workspace\\geco\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj",
+        "projectPath": "E:\\Workspace\\geco\\New folder\\Alistair.Web.Api\\Alistair.Web.Api\\Alistair.Web.Api.csproj",
         "packagesPath": "C:\\Users\\hyoushke\\.nuget\\packages\\",
-        "outputPath": "E:\\Workspace\\geco\\Alistair.Web.Api\\Alistair.Web.Api\\obj\\",
+        "outputPath": "E:\\Workspace\\geco\\New folder\\Alistair.Web.Api\\Alistair.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,14 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistair.Web.Api", "Alistair.Web.Api\Alistair.Web.Api.csproj", "{32411F66-8AE0-4F57-9700-ADE8894C4282}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistair.Web.Api", "Alistair.Web.Api\Alistair.Web.Api.csproj", "{2C0C69A2-8B30-4C02-B2FC-6EF05C747003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32411F66-8AE0-4F57-9700-ADE8894C4282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32411F66-8AE0-4F57-9700-ADE8894C4282}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32411F66-8AE0-4F57-9700-ADE8894C4282}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32411F66-8AE0-4F57-9700-ADE8894C4282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0C69A2-8B30-4C02-B2FC-6EF05C747003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0C69A2-8B30-4C02-B2FC-6EF05C747003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0C69A2-8B30-4C02-B2FC-6EF05C747003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0C69A2-8B30-4C02-B2FC-6EF05C747003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6DEDF79F-85B2-4B07-BD1B-6C166896C07D}
+		SolutionGuid = {6CC985EA-72F0-4C8D-B844-11B06057ED79}
 	EndGlobalSection
 EndGlobal
